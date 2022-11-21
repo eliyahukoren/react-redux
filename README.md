@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Integrate [Tailwind, React and Webpack](https://dev.to/ynwd/how-to-integrate-tailwind-react-and-webpack-2gdf)
+
+Install:
+
+`yarn add -D @babel/core @babel/preset-env @babel/preset-react`
+
+
+
+
 ## Clone project
 
 In the project directory run:
